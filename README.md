@@ -2,8 +2,8 @@
 A Java Internet Viewing Experience
 ## to run the browser
 
->Goto 
+Goto 
 
->**src** >> **jivebrowserv2**
+**src** >> **jivebrowserv2**
 
->run the **JiveBroserv2.java** class 
+run the **JiveBroserv2.java** class 
